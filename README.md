@@ -1,1 +1,1 @@
-# react-github-api-solution
+# GitHub API
